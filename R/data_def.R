@@ -8,6 +8,20 @@
 #' @source Courtesy of hamburger franchise, called Big Andy's Burger Barn
 "andy"
 
+#' autompg
+#' @format A data frame
+#' \describe{
+#'  \item{mpg}{Num}
+#'  \item{cyl}{Int}
+#'  \item{disp}{Num}
+#'  \item{hp}{Num}
+#'  \item{wt}{Num}
+#'  \item{acc}{Num}
+#'  \item{year}{Int}
+#'  }
+#' @source \url{https://book.stat420.org/multiple-linear-regression.html}
+"autompg"
+
 #' bangla
 #' @format A data frame with 34 rows and 2 variables:
 #' \describe{
