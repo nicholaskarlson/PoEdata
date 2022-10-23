@@ -84,7 +84,22 @@
 #'          Louisiana State University
 "br"
 
-
+#' FieldGoals2003to2006
+#' @format A data frame
+#' \describe{
+#'  \item{Name}{chr}
+#'  \item{Yeart}{num}
+#'  \item{Teamt}{chr}
+#'  \item{FGAt}{num}
+#'  \item{FGt}{num}
+#'  \item{Team(t-1)}{chr}
+#'  \item{FGAtM1}{num}
+#'  \item{FGtM1}{num}
+#'  \item{FGAtM2}{num}
+#'  \item{FGtM2}{num}
+#'  }
+#' @source \url{https://github.com/nicholaskarlson/MARR-06Nov2021/blob/master/Data-Files-related-to-MARR.txt}
+"FieldGoals2003to2006"
 
 #' kicker
 #' @format A data frame
