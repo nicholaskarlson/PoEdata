@@ -101,6 +101,24 @@
 #' @source \url{https://github.com/nicholaskarlson/MARR-06Nov2021/blob/master/Data-Files-related-to-MARR.txt}
 "FieldGoals2003to2006"
 
+#' hsb2
+#' @format A data frame
+#' \describe{
+#'  \item{id}{int}
+#'  \item{female}{int}
+#'  \item{race}{int}
+#'  \item{ses}{int}
+#'  \item{schtyp}{int}
+#'  \item{prog}{int}
+#'  \item{read}{int}
+#'  \item{write}{int}
+#'  \item{math}{int}
+#'  \item{science}{int}
+#'  \item{socst}{int}
+#'  }
+#' @source \url{https://stats.idre.ucla.edu/stat/data/hsb2.csv}
+"hsb2"
+
 #' kicker
 #' @format A data frame
 #' \describe{
