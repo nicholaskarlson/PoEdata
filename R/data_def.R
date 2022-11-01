@@ -84,6 +84,17 @@
 #'          Louisiana State University
 "br"
 
+#' circulation
+#' @format A data frame
+#' \describe{
+#'  \item{Newspaper}{chr}
+#'  \item{Sunday}{int}
+#'  \item{Weekday}{int}
+#'  \item{Tabloid.with.a.Serious.Competitor}{int}
+#'  }
+#' @source \url{https://github.com/nicholaskarlson/MARR-06Nov2021/blob/master/Data-Files-related-to-MARR.txt}
+"circulation"
+
 #' FieldGoals2003to2006
 #' @format A data frame
 #' \describe{
